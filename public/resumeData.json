@@ -1,163 +1,166 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Kevin Lau",
+    "occupation": "artist/coder/dreamer who loves beautiful things",
+    "description": "Changing the world one type at a time.",
+    "image": "profilepic.jpg",
+    "bio": "Never Never Never Give up",
+    "contactmessage": "Please email me. The form below doesn't work.",
+    "email": "REMOVEDTHISkevinlau11@post.harvard.edu",
+    "phone": "+852-6400-6851",
+    "address": {
+      "street": "Winner Building, BLK 8, No.8-16 Wing Wah Lane",
+      "city": "Hong Kong",
+      "state": "Central",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "http://www.fitcampapp.com",
+    "resumedownload": "http://fitcampapp.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "github",
+        "url": "https://github.com/InfiniteRandomVariable",
+        "className": "fa fa-github"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "http://googleplus.com",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
       },
+
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Problem Solver / Jack of All Trade / Generalist",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Harvard University",
+        "degree": "Graduate Program in Engineering School - Computer Science",
+        "graduated": "2011",
+        "description": "GPA 3.68 - Programming Coursework: Elements of Software Construction at MIT, Human & Computer Interaction in Research (PHD course), Visualization."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Bond University",
+        "degree": " Psychology & Biomedical Science",
+        "graduated": "2004",
+        "description": "Understanding of human behavior and biology."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Allytic App",
+        "title": "Founder, Developer and UX design",
+        "years": "2019 - Present",
+        "description": "Helped retailers/vendors/marketers to form alliance and made intelligent group decision and increased collective group purchasing power by analyzing business performance, best selling products and identified trend, featuring accounting POS, access control and inventory management."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Fitcamp App",
+        "title": "Founder, Developer and UX design",
+        "years": "2015 - 2017",
+        "description": "An iOS app with full iCloud architecture integration enabled the benefits of omitting the troubling processes of sign up and log in while leveraged the full security and efficiency of Apple authentication service for free, without the need to maintain the service. Support first generation AppleWatch app.  Developed and designed multiple complex scenarios for connecting user to exercise together instantly with minimal efforts on the user’s part by an Uber-like single page effortless design. Designed a secure and safe environment for fitness people to exercise together. Users could talk and interact with each other in real time while following any exercise routine."
+      },
+      {
+        "company": "Hotopy App",
+        "title": "Founder, Developer and UX design",
+        "years": "2013 - 2014",
+        "description": "An iOS app and web app, automated web robots to scrape and organized the top comment and photo from multiple news agencies for most current news and top comments, every two hours. One Page Web and App design."
+      },
+      {
+        "company": "VoicePhoto App",
+        "title": "Founder, Developer and UX design",
+        "years": "2011 - 2013",
+        "description": "An iOS App with full Instagram-like features. Enabled recording and added user’s voice to photos for photo narration and storytelling by“inventing” audio-photo format and slideshow with voice narration. Reduced the size of the audio-photo file by 90% with high fidelity to the original works. Performance optimization for mass photo downloads for the photo collage scroll view. Dynamically retrieved and erased photos for memory optimization for increased app responsiveness. Implemented common social networking features such as accepting, inviting friends and manage profile, hashtag, “like” and conversation. Integrated and published video content to both the app and website for multi-platform supports while using a common RESTFUL backend, achieved this efficiency by iOS device posting encrypted authorization to write to content distributed network, AWS S3, the secure authorization is a temporary authorized token generated by RESTFul server backend."
+      },
+      {
+        "company": "Thecourseworks.com",
+        "title": "Founder, Developer and UX design",
+        "years": "2010 - 2011",
+        "description": "helped matching and finding team members for school courseworks. Teammates were required to sign a contract and built matrices to increase accountability and keep records of course work. Used graphical interface to visualize the member performance and satisfaction resulting from the reviews of peers. Scoring and reputation system was used to reward the high-performers."
+      },
+      {
+        "company": "Philaz.com",
+        "title": "Founder, Developer and UX design",
+        "years": "2007 - 2009",
+        "description": "A social networking targeting families and closed friends. From ideation to creation, defined and achieved objectives through user interface design for a social networking site. Worked remotely with a team of programmers in India, debugged, evaluated progress and met deadlines. Streamlined and combined features to synchronize a cohesive experience. Pioneered one page design for many features at the time when its was novelty, by consistent separation of sidebar menu and dynamic content."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Swift",
+        "level": "75%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "68%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Objective-C",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "AWS-Universe",
+        "level": "50%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "UX Design",
+        "level": "90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "MongoDB",
+        "level": "45%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "NOSQL",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "http://www.fitcampapp.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.prolightingcn.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.fitcampapp.com"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Very Driven",
+        "user": "Tim Yu - Colleague/co-programmer"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "Hard working",
+        "user": "Mike Yu - Supervisor"
       }
     ]
   }
