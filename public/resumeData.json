@@ -134,20 +134,26 @@
     "projects": [
       {
         "title": "Evernote Clone",
-        "category": "Use React to help people taking note on the fly",
-        "image": "canadian-wanderlust.jpg",
+        "category": "Use React to help people taking note on the fly - React Class Components",
+        "image": "EverNoteLandingPage.jpg",
         "url": "http://www.fitcampapp.com"
       },
       {
         "title": "My Company Website",
         "category": "CSS, Javascript",
-        "image": "fury-fighting-gear.jpg",
+        "image": "prolightinglandingpage.jpg",
         "url": "http://www.prolightingcn.com"
       },
       {
         "title": "Fitcamp App",
         "category": "Instantly connect people working out",
-        "image": "original-thai-food.jpg",
+        "image": "fitcampappLandingPage.jpg",
+        "url": "http://www.fitcampapp.com"
+      },
+      {
+        "title": "Todoist Clone",
+        "category": "Use React to help people create a todo list - Use React Hooks.",
+        "image": "ToDoListLandingPage.jpg",
         "url": "http://www.fitcampapp.com"
       }
     ]
