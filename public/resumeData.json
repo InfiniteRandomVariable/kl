@@ -133,8 +133,8 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Evernote Clone",
-        "category": "Use React to help people taking note on the fly - React Class Components",
+        "title": "Evernote Clone (Optimized)",
+        "category": "Use React to help people taking note on the fly - React Class Components.",
         "image": "EverNoteLandingPage.jpg",
         "url": "http://www.fitcampapp.com"
       },
